@@ -5,6 +5,7 @@
 
 <h2>Description</h2>
 Second year final project at Metropolia. Developed in a group of 4 coders and 6 artists in the span of 7 weeks.
+<br><br/>
 
 ![](images/img1.png)
 ![](images/img2.png)
